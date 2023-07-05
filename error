@@ -1,0 +1,5 @@
+Error: error:0308010C:digital envelope routines::unsupported
+    at new Hash (node:internal/crypto/hash:69:19)
+    at Object.createHash (node:crypto:138:10)
+
+    used nvm manager for react projec t 
